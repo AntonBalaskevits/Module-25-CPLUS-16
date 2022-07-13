@@ -7,7 +7,7 @@
 #include "client_obj.h"
 
 int main() {
-	const char* db_pass = { "aTon@Nem87Ju" };
+	const char* db_pass = { "root" };
 	const char* db_name = { "testdb" };
 
 	Client client_obj;
